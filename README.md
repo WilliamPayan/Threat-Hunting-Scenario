@@ -145,7 +145,7 @@ The detailed investigation conclusively identifies that the employee user intent
 ## Response Taken
 Upon confirmation of unauthorized TOR usage by user "employee", the following immediate response actions were executed:
 
-Endpoint Isolation: Immediate isolation of endpoint "`threathuntlabwi`" to prevent further unauthorized activity.
-Management Notification: Employee's direct manager was promptly informed of the incident details for further action.
+- **Endpoint Isolation:** Immediate isolation of endpoint "`threathuntlabwi`" to prevent further unauthorized activity.
+- **Management Notification:** Employee's direct manager was promptly informed of the incident details for further action.
 
 ---
